@@ -1,0 +1,3 @@
+pip install --upgrade autopep8
+pip install pycodestyle
+autopep8 --in-place --aggressive --aggressive app.py
